@@ -1,0 +1,42 @@
+
+
+.download-file
+{
+    margin-top: 3rem;
+    width: 50%;
+    max-height: 100px;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    border-radius: 0.5rem;
+    /* border: 1px solid black; */
+    padding: 1rem;
+}
+.download-file img{
+    width: 40px;
+    height: 42px;
+    margin-top: 0.8rem;
+}
+
+.delete span
+{
+    background-color: rgb(240, 55, 55);
+    padding: 0.3rem;
+    border-radius: 50%;
+    font-size: 1.5rem;
+    color: white;
+}
+
+.size{
+    font-size: 0.8rem;
+    color: rgb(51, 50, 50);
+}
+
+.btn-down span{
+    background-color: rgb(29, 159, 29) !important;
+    color: white !important;
+    font-weight: 600 !important;
+    font-size: 1.5rem !important;
+    border-radius: 50% !important;
+    padding: 0.3rem;
+}
